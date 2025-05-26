@@ -24,7 +24,7 @@
 ## 🧩 Projects
 
 - 🌐 **[Portfolio Website](https://your-portfolio-link.com)** — Fully responsive personal website showcasing my work and journey.
-- 🧮 **[C++ Practice Repo](https://github.com/yourusername/cpp-practice-code)** — Well-organized programs covering DSA, OOP, and core C++ concepts (from CodeWithHarry's C++ Course).
+- 🧮 **[C++ Practice Repo](https://github.com/sagargulia001/My-C-Plus-Plus-Journey)** — Well-organized programs covering DSA, OOP, and core C++ concepts (from CodeWithHarry's C++ Course).
 
 ---
 
