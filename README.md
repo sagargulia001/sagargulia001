@@ -23,7 +23,7 @@
 
 ## 🧩 Projects
 
-- 🌐 **[Portfolio Website](https://your-portfolio-link.com)** — Fully responsive personal website showcasing my work and journey.
+- 🌐 **[Portfolio Website](https://sagargulia001.github.io/My-Portfolio/)** — Fully responsive personal website showcasing my work and journey.
 - 🧮 **[C++ Practice Repo](https://github.com/sagargulia001/My-C-Plus-Plus-Journey)** — Well-organized programs covering DSA, OOP, and core C++ concepts (from CodeWithHarry's C++ Course).
 
 ---
@@ -31,7 +31,7 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn – sagargulia001](https://www.linkedin.com/in/sagargulia001/)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(if live)*
+- 🌐 [Portfolio Website](https://sagargulia001.github.io/My-Portfolio/)
 - 📨 Open to collaboration, feedback, and learning opportunities.
 
 ---
