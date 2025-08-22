@@ -16,15 +16,14 @@
 ## 💼 Skills & Interests
 
 - **Languages**: C++, HTML, CSS, JavaScript
-- **Focus Areas**: Front-End Web Development, Responsive Design, Clean UI/UX
-- **Other Interests**: Open Source, UI Design, Backend basics (PHP, MySQL)
+- **Focus Areas**: Data Structure and Algorithms
 
 ---
 
 ## 🧩 Projects
 
 - 🌐 **[Portfolio Website](https://sagargulia001.github.io/My-Portfolio/)** — Fully responsive personal website showcasing my work and journey.
-- 🧮 **[C++ Practice Repo](https://github.com/sagargulia001/My-C-Plus-Plus-Journey)** — Well-organized programs covering DSA, OOP, and core C++ concepts (from CodeWithHarry's C++ Course).
+- 🧮 **[C++ Practice Repo](https://github.com/sagargulia001/Neighbor-Share)** — Concept project that demonstrates the idea of a community-first web app where neighbors can buy, sell, borrow, lend, or donate items locally
 
 ---
 
