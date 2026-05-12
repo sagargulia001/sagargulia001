@@ -1,38 +1,34 @@
-# 👋 Hi there! I'm Sagar
+# 👨‍💻 Hi, I'm Sagar!
 
-🎓 I'm a B.Tech. student in Computer Science with a strong interest in software development and web technologies.
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning and building projects in **Web Development** (HTML, CSS, JavaScript, and modern frameworks).
-- 🧠 Actively exploring **DSA with C++** to strengthen my programming fundamentals.
-- 🔍 Always curious to learn and try out new technologies.
-- 👨🏿‍💻 Looking to **collaborate on real-world projects** to gain hands-on experience and improve my skills.
+**B.Tech Computer Science Student | Full-Stack Developer | Competitive Programmer**
 
 ---
 
-## 💼 Skills & Interests
-
-- **Languages**: C++, HTML, CSS, JavaScript
-- **Focus Areas**: Data Structure and Algorithms
-
----
-
-## 🧩 Projects
-
-- 🌐 **[Portfolio Website](https://sagargulia001.github.io/My-Portfolio/)** — Fully responsive personal website showcasing my work and journey.
-- 🧮 **[C++ Practice Repo](https://github.com/sagargulia001/Neighbor-Share)** — Concept project that demonstrates the idea of a community-first web app where neighbors can buy, sell, borrow, lend, or donate items locally
+### 🚀 At a Glance
+- 🛠️ Currently building: **University Research Portal** (Next.js & Supabase).
+- 🧠 Solving: Data Structures & Algorithms in **C++**.
+- 🏆 Achievement: **2-Star Coder** on CodeChef.
+- 💬 Ask me about: **Web Dev** or **Chess**.
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn – sagargulia001](https://www.linkedin.com/in/sagargulia001/)
-- 🌐 [Portfolio Website](https://my-portfolio-omega-beige.vercel.app/)
-- 📨 Open to collaboration, feedback, and learning opportunities.
+### 🛠️ Tech Stack & Tools
+- **Languages:** C++, JavaScript (ES6+), TypeScript, HTML5, CSS3.
+- **Frameworks/Libraries:** Next.js, React, Tailwind CSS.
+- **Backend/Database:** Prisma ORM, PostgreSQL (Supabase), JWT Auth.
+- **Tools:** Git, GitHub, Vercel, IBM SkillBuild.
 
 ---
 
-> “Learning by building. Growing by sharing.”
+### 🧩 Featured Projects
+- 🎓 **[University Research Portal](https://urms-ebon.vercel.app/)** - A full-stack RBAC system for academic research management.
+- 🌐 **[Portfolio Website](https://my-portfolio-omega-beige.vercel.app/)** - Personal showcase built with a focus on clean UI.
+- 🤝 **[Neighbor-Share](https://neighbor-share-ten.vercel.app/)** - A community-driven exchange platform.
+
+---
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagargulia001/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://my-portfolio-omega-beige.vercel.app/)
+
+> *"Learning by building. Growing by sharing."*
